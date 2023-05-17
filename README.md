@@ -20,7 +20,7 @@ Always eager to explore the latest ML research papers 🔍
 BSc at Computer Science - University of Macedonia
 
 MSc at Data & Web Science - Aristotle University of Thessaloniki
-
+<!-- 
 
 # **🌱 Learning**
 
@@ -28,7 +28,7 @@ Constantly learning and sharing knowledge in the ML community 📖
 
 Transforming data into actionable insights 📊
 
-Goal-driven and committed to achieving excellence 🎯
+Goal-driven and committed to achieving excellence 🎯 -->
 
 # 📫 **Contact**
 

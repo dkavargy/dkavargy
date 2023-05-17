@@ -1,26 +1,40 @@
-👋 Introduction
-Hello, I'm [Kavargyris Dimitros-Christos]! 👨‍💻 
+👋 **Introduction**
 
-🚀 About Me
-Machine Learning Enthusiast | Data Science Advocate 🌟 \\
+Hello, I'm Kavargyris Dimitros-Christos! 👨‍💻 
+
+**🚀 About Me**
+
+Machine Learning Enthusiast | Data Science Advocate 🌟 
+
 Passionate about leveraging ML for social good 🌍
-Based in [Thessaloniki, Greece] 📍
 
-💡 Interests
+Based in Thessaloniki, Greece 📍
+
+**💡 Interests**
+
 Exploring the frontiers of Advanced Machine Learning 🌌
+
 Currently diving deep into advanced NLP techniques 📚
+
 Always eager to explore the latest ML research papers 🔍
 
-🎓 Education
-[BSc at Computer Science - University of Macedonia]
-[MSc at Data & Web Science - Aristotle University of Thessaloniki]
 
-🌱 Learning
+**🎓 Education**
+
+BSc at Computer Science - University of Macedonia
+
+MSc at Data & Web Science - Aristotle University of Thessaloniki
+
+**🌱 Learning**
+
 Constantly learning and sharing knowledge in the ML community 📖
+
 Transforming data into actionable insights 📊
+
 Goal-driven and committed to achieving excellence 🎯
 
-💻 Open Source
+**💻 Open Source**
+
 Open-source contributor and GitHub enthusiast 🌟
 Check out my latest ML projects and contributions below! ⬇️
 

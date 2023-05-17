@@ -14,12 +14,15 @@ Currently diving deep into advanced NLP techniques 📚
 
 Always eager to explore the latest ML research papers 🔍
 
+--------------------------------------------------------------------
 
 **🎓 Education**
 
 BSc at Computer Science - University of Macedonia
 
 MSc at Data & Web Science - Aristotle University of Thessaloniki
+
+--------------------------------------------------------------------
 
 **🌱 Learning**
 
@@ -29,12 +32,11 @@ Transforming data into actionable insights 📊
 
 Goal-driven and committed to achieving excellence 🎯
 
-**💻 Open Source**
+--------------------------------------------------------------------
 
-Open-source contributor and GitHub enthusiast 🌟
-Check out my latest ML projects and contributions below! ⬇️
 
 Reach me at [dkavargy@gmail.com] 📧
+
 Connect with me on LinkedIn: [(https://www.linkedin.com/in/dimitrios-christos-kavargyris/)] 🔗
 
 

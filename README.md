@@ -1,8 +1,8 @@
 👋 Introduction
-Hello, I'm [Kavargyris Dimitros-Christos]! 👨‍💻
+Hello, I'm [Kavargyris Dimitros-Christos]! 👨‍💻 
 
 🚀 About Me
-Machine Learning Enthusiast | Data Science Advocate 🌟
+Machine Learning Enthusiast | Data Science Advocate 🌟 \\
 Passionate about leveraging ML for social good 🌍
 Based in [Thessaloniki, Greece] 📍
 

@@ -8,10 +8,6 @@ Machine Learning Enthusiast | Data Science Advocate 🌟
 
 Passionate about leveraging ML for social good 🌍
 
-Based in Thessaloniki, Greece 📍
-
-**💡 Interests**
-
 Exploring the frontiers of Advanced Machine Learning 🌌
 
 Currently diving deep into advanced NLP techniques 📚

@@ -1,8 +1,8 @@
-👋 **Introduction**
+# 👋  **Introduction**
 
-Hello, I'm Kavargyris Dimitros-Christos! 👨‍💻 
+Hello, I'm  Kavargyris Dimitros-Christos! 👨‍💻 
 
-**🚀 About Me**
+# **🚀 About Me**
 
 Machine Learning Enthusiast | Data Science Advocate 🌟 
 
@@ -14,17 +14,15 @@ Currently diving deep into advanced NLP techniques 📚
 
 Always eager to explore the latest ML research papers 🔍
 
---------------------------------------------------------------------
 
-**🎓 Education**
+# **🎓 Education**
 
 BSc at Computer Science - University of Macedonia
 
 MSc at Data & Web Science - Aristotle University of Thessaloniki
 
---------------------------------------------------------------------
 
-**🌱 Learning**
+# **🌱 Learning**
 
 Constantly learning and sharing knowledge in the ML community 📖
 
@@ -32,8 +30,7 @@ Transforming data into actionable insights 📊
 
 Goal-driven and committed to achieving excellence 🎯
 
---------------------------------------------------------------------
-
+# 📫 **Contact**
 
 Reach me at [dkavargy@gmail.com] 📧
 

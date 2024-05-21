@@ -15,6 +15,7 @@ Hello, I'm  Kavargyris Dimitros-Christos! 👨‍💻
 
 - BSc at Computer Science - University of Macedonia
 - MSc at Data & Web Science - Aristotle University of Thessaloniki
+- Phd Candidate at Digital Skills & Competences - Aristotle University of Thessaloniki
 <!-- 
 
 ## **🌱 Learning**

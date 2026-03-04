@@ -1,56 +1,55 @@
-## 👋  **Introduction**
+<div align="center">
 
-Hello, I'm  Kavargyris Dimitros-Christos! 👨‍💻 
+# Dimitrios-Christos Kavargyris
 
-## **🚀 About Me**
+*Building machines that understand — and doing it with purpose.*
 
-- Machine Learning Enthusiast | Data Science Advocate 🌟
-- Passionate about leveraging ML for social good 🌍
-- Exploring the frontiers of Advanced Machine Learning 🌌
-- Currently diving deep into advanced NLP techniques 📚
-- Always eager to explore the latest ML research papers 🔍
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-christos-kavargyris/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dkavargy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dkavargy@gmail.com)
 
+</div>
 
-## **🎓 Education**
+---
 
-- BSc at Computer Science - University of Macedonia
-- MSc at Data & Web Science - Aristotle University of Thessaloniki
-- Phd Candidate at Digital Skills & Competences - Aristotle University of Thessaloniki
-<!-- 
+## Who I Am
 
-## **🌱 Learning**
+I'm a PhD candidate at Aristotle University of Thessaloniki, where I research **Digital Skills & Competences** — the human side of a world increasingly shaped by algorithms. Before that, I built my foundations in Computer Science at the University of Macedonia and deepened my expertise through an MSc in Data & Web Science, also at AUTH.
 
-Constantly learning and sharing knowledge in the ML community 📖
+I don't just study machine learning — I think about what it means, who it affects, and how to make it work for people rather than around them.
 
-Transforming data into actionable insights 📊
+---
 
-Goal-driven and committed to achieving excellence 🎯 -->
+## What Drives Me
 
-## 📫 **Contact**
+Most of my work lives at the intersection of **Natural Language Processing**, **advanced ML**, and **real-world impact**. I'm genuinely excited by the challenge of taking something messy and human — language, behavior, knowledge — and finding structure in it without losing its meaning.
 
-Feel free to reach out to me if you have any questions or collaboration opportunities! 
+Right now I'm deep in:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-christos-kavargyris/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkavargy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkavargy@gmail.com)
+- 🧠 **Advanced NLP** — from transformer architectures to the subtler problems of language understanding
+- 📊 **Data Science for social good** — using data to ask better questions, not just get faster answers
+- 🔬 **ML research** — I read papers the way some people read novels: looking for the idea that changes how I see everything else
 
+---
 
+## A Few Principles I Work By
 
+**Rigor without dogma.** The best model isn't always the most complex one. I care about understanding *why* something works.
 
-<!-- 🚀 Machine Learning Enthusiast | Data Science Advocate
-💡 Exploring the frontiers of Advanced Machine Learning
-🎓 Constantly learning and sharing knowledge in the ML community
-🔍 Seeking challenging problems to solve using ML algorithms
-💻 Open-source contributor and GitHub enthusiast
-🌍 Passionate about leveraging ML for social good
-📚 Currently diving deep into advanced NLP techniques
-🌱 Always eager to explore the latest ML research papers
-📊 Transforming data into actionable insights
-🎯 Goal-driven and committed to achieving excellence
-✨ Let's collaborate and make an impact together!
-📫 Reach me at [your_email@example.com]
-🌐 Visit my portfolio: [your_portfolio_link]
-📌 Based in [Your Location]
-⭐️ Connect with me on LinkedIn: [your_LinkedIn_profile_link]
-📝 Check out my latest ML projects and contributions below!
- -->
+**Openness.** Science moves faster when we share. I try to contribute back to the communities that taught me.
+
+**Humility.** Every dataset has a history. Every model has blind spots. Knowing that keeps the work honest.
+
+---
+
+## Let's Connect
+
+If you're working on something at the edge of ML and human impact — or you just want to talk about a paper you can't stop thinking about — I'd genuinely enjoy hearing from you.
+
+📬 [dkavargy@gmail.com](mailto:dkavargy@gmail.com)
+
+---
+
+<div align="center">
+<sub>Thessaloniki, Greece · Aristotle University of Thessaloniki</sub>
+</div>

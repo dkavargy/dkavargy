@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dimitrios-Christos Kavargyris
+# Dimitrios Christos Kavargyris
 
 *Building machines that understand — and doing it with purpose.*
 
